@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{1488:function(e,t,n){"use strict";n.r(t);var r={asyncData:function(e){e.store;var t=e.redirect;e.route;t({name:"homepage"})}},c=n(36),component=Object(c.a)(r,(function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"page"})}),[],!1,null,null,null);t.default=component.exports}}]);
